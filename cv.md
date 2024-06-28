@@ -18,6 +18,7 @@ Now I am determined to complete my education and start a career as a junior inte
 + CSS
 + JavaScript
 + Jest
++ lodash
 
 ## Code Example
 
