@@ -5,6 +5,7 @@ src="https://sun1-85.userapi.com/s/v1/ig2/IGUUWOUXG86BAZYbp4Q-RFnuqQ_OmlbC9jdBkK
 + Discord:  paulgrossman
 + Telegram: https://t.me/PaulGrossman
 + E-mail: sizemovpavel@gmail.com
++ Location: Georgia, Tbilisi
 
 ## About me
 I am currently working in the field of marketing and at the same time I am getting an education in the field of programming. I started learning programming a couple of years ago, but due to the demands of my job, it was difficult for me to allocate enough time for effective learning. Despite these difficulties, my desire for technology and web development has only intensified.
