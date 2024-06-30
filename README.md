@@ -1,1 +1,1 @@
-https://SizemovPavel.github.io/rsschool-cv/
+https://SizemovPavel.github.io/rsschool-cv/cv
