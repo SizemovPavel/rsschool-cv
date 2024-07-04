@@ -186,6 +186,7 @@ article section {
 
 .code-example-item {
     align-items: flex-start;
+    overflow: hidden
 }
 
 pre {
